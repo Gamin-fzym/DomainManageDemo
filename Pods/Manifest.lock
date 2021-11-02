@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.4.4)
+  - EZSwiftExtensions (2.0)
+  - MBProgressHUD (1.2.0)
+  - ReachabilitySwift (5.0.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.1)
+  - SwiftyUserDefaults (5.3.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - EZSwiftExtensions (= 2.0)
+  - MBProgressHUD
+  - ReachabilitySwift
+  - SVProgressHUD
+  - SwiftyJSON
+  - SwiftyUserDefaults (= 5.3.0)
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - EZSwiftExtensions
+    - MBProgressHUD
+    - ReachabilitySwift
+    - SVProgressHUD
+    - SwiftyJSON
+    - SwiftyUserDefaults
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  EZSwiftExtensions: f73648a591e529a1dbd83c22b19fd3e57df6fb7d
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  SwiftyUserDefaults: 63f80248cf5bfb3458825d9a78f2eb7e1293a040
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 924aebd0475ad8f8ef295debc453b3d5144d8592
+
+COCOAPODS: 1.11.0
